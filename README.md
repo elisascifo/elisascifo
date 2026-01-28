@@ -16,7 +16,7 @@ Sono una studentessa magistrale in **Scienze del testo per le professioni digita
 | Area | Technologies |
 | :--- | :--- |
 | **Data Analysis** | Python (Pandas, NumPy), SQL |
-| **Web Dev** | HTML5, CSS3, PHP, Javascript |
+| **Web Dev** | HTML5, CSS3, PHP, Javascript, XML TEI |
 | **Future Tech** | AI Prompt Engineering |
 
 ---
