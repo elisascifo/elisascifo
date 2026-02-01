@@ -23,5 +23,5 @@ Sono una studentessa magistrale in **Scienze del testo per le professioni digita
 
 📫 **Voglia di mettermi in gioco:** Sono alla ricerca di sfide che mettano alla prova la mia capacità di unire visione umanistica e rigore computazionale.
 ###  ☎️ Contatti
-* **Linkedib:** www.linkedin.com/in/elisascifo
+* **Linkedin:** www.linkedin.com/in/elisascifo
 * **Instagram:** https://www.instagram.com/elisa_scifo/
