@@ -15,10 +15,13 @@ Sono una studentessa magistrale in **Scienze del testo per le professioni digita
 ### 🛠️ Tech Stack & Tools
 | Area | Technologies |
 | :--- | :--- |
-| **Data Analysis** | Python (Pandas, NumPy), SQL |
-| **Web Dev** | HTML5, CSS3, PHP, Javascript, XML TEI |
+| **Data Analysis** | Python (Pandas, NumPy), SQL, Git |
+| **Web Dev** | HTML5, CSS3, PHP, Javascript, XML TEI, Bootstrap |
 | **Future Tech** | AI Prompt Engineering |
 
 ---
 
 📫 **Voglia di mettermi in gioco:** Sono alla ricerca di sfide che mettano alla prova la mia capacità di unire visione umanistica e rigore computazionale.
+###  ☎️ Contatti
+* **Linkedib:** www.linkedin.com/in/elisascifo
+* **Instagram:** https://www.instagram.com/elisa_scifo/
