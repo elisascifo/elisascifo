@@ -1,6 +1,5 @@
 # Ciao, sono Elisa! 👋
 
-<img src="img elisa-laurea.jpg" alt="Descrizione" width="35%">
 
 ###  Dalla Mediazione Linguistica alla Data Science: Interpretare il futuro attraverso i dati.
 
