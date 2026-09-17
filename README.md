@@ -3,7 +3,7 @@
 
 ###  Dalla Mediazione Linguistica alla Data Science: Interpretare il futuro attraverso i dati.
 
-Sono una studentessa magistrale in **Scienze del testo per le professioni digitali (LM-43)** con un background in **Mediazione Linguistica (L-12)**. La mia missione? Dimostrare che l'analisi dei dati è l'evoluzione naturale della decodifica del linguaggio.
+Sono una giovane neolaureata in **Scienze del testo per le professioni digitali (LM-43)** con un background in **Mediazione Linguistica (L-12)**. La mia missione? Dimostrare che l'analisi dei dati è l'evoluzione naturale della decodifica del linguaggio.
 
 * **Mindset:** Ho trasformato l'abilità di individuare pattern linguistici in una mentalità analitica applicata alla Data Science.
 * **Obiettivo:** Diventare una Data Analyst capace di estrarre valore e narrazione dalla complessità dei dataset.
